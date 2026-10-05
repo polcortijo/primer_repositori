@@ -48,7 +48,7 @@ ip a
 - [Documentació d'Ubuntu](https://ubuntu.com/server/docs)
 
 ## Foto
-(https://openresearch.ed.ac.uk/github/)
+![Foto git](https://openresearch.ed.ac.uk/github/)
 
 ## Flux de treball amb Git
 
