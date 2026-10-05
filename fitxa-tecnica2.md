@@ -47,9 +47,6 @@ ip a
 - [Documentació de GitHub](https://docs.github.com/)
 - [Documentació d'Ubuntu](https://ubuntu.com/server/docs)
 
-## Foto
-(https://openresearch.ed.ac.uk/github/)
-
 ## Flux de treball amb Git
 
 El flux de treball bàsic utilitzat en aquesta pràctica és:
