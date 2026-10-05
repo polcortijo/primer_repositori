@@ -48,7 +48,7 @@ ip a
 - [Documentació d'Ubuntu](https://ubuntu.com/server/docs)
 
 ## Foto
-![Foto git](https://openresearch.ed.ac.uk/github/)
+![Foto git]([https://openresearch.ed.ac.uk/github/](https://laverdadnoticias.com/futuro-ahora/gadgets-que-importan/github-mejora-con-aws))
 
 ## Flux de treball amb Git
 
